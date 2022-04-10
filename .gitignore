@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#terraform
+*.terraform
+
 # Object files
 *.o
 *.ko
